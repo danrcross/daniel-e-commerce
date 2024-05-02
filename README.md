@@ -37,7 +37,7 @@ I learned/practiced the following technologies/skills/concepts through the devel
 
 ## Installation
 
-Clone this app onto your machine: Run `git clone git@github.com:danrcross/daniel-employee-tracker.git` in terminal, at location where you would like to clone the repository
+Clone this app onto your machine: Run `git clone git@github.com:danrcross/daniel-e-commerce.git` in terminal, at location where you would like to clone the repository
 
 --- OR ---
 
